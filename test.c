@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-
+/// Modify this setting to define the proper array size
 #define ARRAY_SIZE 5
 
 typedef enum
