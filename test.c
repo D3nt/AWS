@@ -3,6 +3,7 @@
 /// Modify this setting to define the proper array size
 #define ARRAY_SIZE 5
 
+//Typedef structure
 typedef enum
 {
    DATA_INDEX=1,
