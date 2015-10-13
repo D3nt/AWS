@@ -29,7 +29,7 @@ main()
             ObjectData[currentObject] = 0xBB;
          case DATA_FLAGS:
             ObjectData[currentObject] = 0xCC;
-         case DATA_NUM_ELEMENTS:
+         case DATA_NUM_OF_ELEMENTS:
             ObjectData[currentObject] = 0xDD;
             break;
          default:
