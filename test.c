@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#define ARRAY_SIZE 5
+#define ARRAY_SIZE 10
 
 typedef enum
 {
